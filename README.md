@@ -13,7 +13,6 @@ I love turning ideas into interactive, user-friendly web and mobile experiences.
 - 🤝 I thrive in collaborative, agile environments.
 - 🧠 My goal: Write clean, maintainable, and meaningful code.
 
-> “Growth and change happen with mind and will. Hello, every opportunity ☘️”
 
 ---
 
