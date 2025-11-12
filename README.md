@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Rabia Vural</h1>
-<h3 align="center">🚀 Passionate Frontend Developer | React & React Native Enthusiast</h3>
+<h3 align="center">🚀 Passionate Frontend Developer specialized in React and React Native</h3>
 
 ---
 
